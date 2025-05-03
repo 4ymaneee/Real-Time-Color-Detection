@@ -1,10 +1,10 @@
-# 🔍 Blue Object Detector
+# 🔍🎨 Real-Time Blue Color Detection Using HSV and OpenCV
 
-> Real-time blue object detection using OpenCV and Python
+This project uses the **HSV (Hue, Saturation, Value)** color space to detect blue objects 🎯 in real time via your webcam 🎥. Unlike RGB/BGR, HSV separates color from brightness, making it a powerful tool for reliable color detection under varying lighting conditions 🌤️.
 
-
-![Python](https://img.shields.io/badge/python-3.6%2B-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.0%2B-green)
+<p align="center">
+  <img src="demo/HSV_color_solid_cylinder.png" alt="Object Detection Demo" width="60%">
+</p>
 
 ## 📸 Demo
 
@@ -22,9 +22,7 @@
   </div>
 </div>
 
-<p align="center">
-  <img src="demo/HSV_color_solid_cylinder.png" alt="Object Detection Demo">
-</p>
+
 
 ## ✨ Features
 
