@@ -1,6 +1,6 @@
-# 🔍🎨 Real-Time Blue Color Detection Using HSV and OpenCV
+# 🔍🎨 Real-Time Color Detection Using OpenCV
 
-This project uses the **HSV (Hue, Saturation, Value)** color space to detect blue objects 🎯 in real time via your webcam 🎥. Unlike RGB/BGR, HSV separates color from brightness, making it a powerful tool for reliable color detection under varying lighting conditions 🌤️.
+This project uses the **HSV (Hue, Saturation, Value)** color space to detect color of objects 🎯 in real time via your webcam 🎥. Unlike RGB/BGR, HSV separates color from brightness, making it a powerful tool for reliable color detection under varying lighting conditions 🌤️.
 
 <p align="center">
   <img src="demo/HSV_color_solid_cylinder.png" alt="Object Detection Demo" width="60%">
@@ -26,12 +26,11 @@ This project uses the **HSV (Hue, Saturation, Value)** color space to detect blu
 
 ## ✨ Features
 
-- 🔵 Real-time blue color detection
+- 🔵 Real-time color detection
 - 📦 Bounding box visualization
 - 🏷️ Object labeling
 - 🎥 Works with webcam input
 - 🎨 HSV color space filtering
-- 🖥️ Simple, clean interface
 
 ## 🚀 Installation
 
